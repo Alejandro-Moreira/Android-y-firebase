@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086126961610",
+    "project_id": "hoja-de-vida-8e9b5",
+    "storage_bucket": "hoja-de-vida-8e9b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086126961610:android:9eee821b1ea73f33bb9533",
+        "android_client_info": {
+          "package_name": "com.example.uploadphotoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnDFtEyBnomDUOC50HAn7pAmin-FDaBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
